@@ -9,3 +9,5 @@
 - 📖 Vocabulary training and grammar suggestions
 - 🧠 Rule-based + NLP model integration
 - 📊 Scalable architecture for future languages
+
+Test this with your API key and show the result also you can change the AI model and version in the code as per your convenience.
